@@ -28,6 +28,7 @@ Patch8:		tests.patch
 Patch9:		pld-release.patch
 # fc
 Patch10:	%{name}-HEAD.patch
+# Patch10-md5:	fed00a3fcdb2ab0115bf8e1949309763
 Patch11:	installonlyn-enable.patch
 Patch12:	%{name}-manpage-files.patch
 Patch13:	no-more-exactarchlist.patch
